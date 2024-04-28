@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="DataForm.png" alt="DataForm" style="display:block; margin:auto; width:700px;" />
+  <img src="DataForm.png" alt="DataForm" style="display:block; margin:auto; width:650px;" />
 </p>
 
 # DataForm: Data Transform 🐼
